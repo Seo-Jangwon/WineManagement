@@ -1,7 +1,7 @@
 # WineManagement
-sql개인프로젝트
+## sql개인프로젝트
 
-구현한 기능(입력 및 포도농장 관리)
+### 구현한 기능(입력 및 포도농장 관리)
 
 • 새로운 밭 등록 ---FIELD_INSERT_NEW.jsp(정보들 입력), FIELD_RESULT_NEW.jsp(데이터베이스에 등록)
 
@@ -25,7 +25,8 @@ sql개인프로젝트
 
 • 포도 생산 ---PRODUCE_GRAPE_FROM_FIELD.jsp(생산할 포도 개수 지정), PRODUCE_GRAPE_FROM_FIELD_RESULT.jsp(데이터베이스에 업데이트)
 
-구현한 기능(와이너리 관리)
+
+### 구현한 기능(와이너리 관리)
 
 • 와이너리 목록 출력 ---SHOW_WINERY_LIST.jsp(와이너리 목록 출력---통계정보 출력은 구현X)
 
@@ -46,7 +47,7 @@ sql개인프로젝트
 • 와인 판매 및 판매정보 추가 ---SELL_WINE.jsp(판매할 종류 및 수량 입력), SELL_WINE_RESULT.jsp(판매정보 및 자금, 저장량 최신화)
 
 
-구현한 기능에 대한 간단한 설명
+### 구현한 기능에 대한 간단한 설명
 
 대부분을 입.출력/ db에 등록 이 두 페이지로 역할을 나눠서 구현.
 
